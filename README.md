@@ -1,0 +1,1 @@
+Because spring 5 not support velocity, our old application want to upgrade to spring 5, so copy all the velocity code in spring 4 to a single model.
