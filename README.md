@@ -7,8 +7,8 @@ Because spring 5 not support velocity and our old application need to upgrade to
 add pom dependency
 ```xml
     <dependency>
-        <groupId>com.teclick.arch.velocity</groupId>
-        <artifactId>velocity-spring-mvc</artifactId>
+        <groupId>com.teclick.arch.spring</groupId>
+        <artifactId>velocity-web</artifactId>
         <version>1.0.0.master</version>
     </dependency>
 ```
